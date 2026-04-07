@@ -1,0 +1,38 @@
+# Backend (Maven)
+hr-tool/target/
+hr-tool/.classpath
+hr-tool/.project
+hr-tool/.settings/
+hr-tool/*.log
+hr-tool/bin/
+
+# Frontend (Node)
+hr-tool-frontend/node_modules/
+hr-tool-frontend/.env.local
+hr-tool-frontend/.env.development.local
+hr-tool-frontend/.env.test.local
+hr-tool-frontend/.env.production.local
+hr-tool-frontend/npm-debug.log*
+hr-tool-frontend/yarn-debug.log*
+hr-tool-frontend/yarn-error.log*
+hr-tool-frontend/build/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Misc
+.env
+*.jar
+*.war
+*.ear
+
